@@ -38,7 +38,7 @@ A collection of awesome things regarding React ecosystem.
     - [Graphics](#graphics)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
-    - [React Developer Experience](#react-developer-experience)
+    - [React Development Experience](#react-development-experience)
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
